@@ -1,0 +1,20 @@
+# Core ML Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+xgboost>=2.0.0
+imbalanced-learn>=0.11.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Optimization
+scipy>=1.10.0
+
+# Progress bars (optional)
+tqdm>=4.65.0
+
+# For GPU support (install appropriate version for your CUDA)
+# Uncomment if you have NVIDIA GPU:
+# xgboost[gpu]>=2.0.0
